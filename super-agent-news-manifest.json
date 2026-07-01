@@ -1,0 +1,29 @@
+{
+  "citations": [
+    "[engadget.com](https://www.engadget.com/2205605/google-gemini-spark-macos-app/)",
+    "[blog.google](https://blog.google/innovation-and-ai/products/gemini-app/next-evolution-gemini-app/)",
+    "[theverge.com](https://www.theverge.com/tech/941138/google-gemini-spark-ai-agent-hands-on)",
+    "[pcmag.com](https://ca.pcmag.com/ai/16273/gemini-spark-is-the-best-ai-agent-ive-testedbut-it-has-a-big-problem)",
+    "[searchenginejournal.com](https://www.searchenginejournal.com/google-gemini-can-now-control-your-computer-hackers-are-already-targeting-ai-agents/)",
+    "[ndtvprofit.com](https://www.ndtvprofit.com/technology/six-in-10-indians-want-personal-ai-agents-highest-in-asia-pacific-report-finds)"
+  ],
+  "design_plan": "rng=42; hero_lines=2-3; AIDA=pass; bento_density=grid-auto-flow:dense; labels_checked=all competitors mentioned; button_contrast=black/white verified",
+  "generated_at": "2026-07-01T07:51:27.445127+00:00",
+  "headline": "Super vs Gemini \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Gemini",
+    "competitor": "Gemini",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Gemini. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Gemini AI agent",
+      "Gemini AI assistant",
+      "Gemini automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-gemini",
+    "title": "Super vs Gemini"
+  },
+  "summary": "Gemini is Google\u2019s fast\u2011evolving AI assistant, now pushing hard into agentic automation with Gemini Spark and computer use on macOS. Super is built specifically for people who want a personal AI agent that actually operates a computer and gets better (and cheaper) over time thanks to a reusable computer-use cache. This page fairly explains what Gemini is good at today, where its approach makes sense, and why Super is often the sharper alternative for repeated computer-use workflows."
+}
